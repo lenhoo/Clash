@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,shabi.in
+  - DOMAIN-KEYWORD,dmm.co.jp
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,tmdb.org
