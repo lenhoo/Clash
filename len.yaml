@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-KEYWORD,shabi.in
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,ozark.gg
+  - DOMAIN-SUFFIX,ozarkengine.cc
+  - DOMAIN-SUFFIX,b49t.com
+  - DOMAIN-SUFFIX,m45e.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,openwrt.org
