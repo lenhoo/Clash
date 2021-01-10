@@ -1,21 +1,29 @@
 payload:
+# Media Scraber
   - DOMAIN-KEYWORD,shabi.in
-  - DOMAIN-KEYWORD,dmm.co.jp
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
+# Ozark
   - DOMAIN-SUFFIX,ozark.gg
   - DOMAIN-SUFFIX,ozarkengine.cc
-  - DOMAIN-SUFFIX,b49t.com
-  - DOMAIN-SUFFIX,m45e.com
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,openwrt.org
+# jav
+  - DOMAIN-KEYWORD,dmm.co.jp
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,avsox.website
   - DOMAIN-SUFFIX,fc2club.com
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,r18.com
+# Rockstar
+  - DOMAIN-SUFFIX,rockstargames.com
+# Epicgames
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-KEYWORD,epicgames
+# Steam Coummunity
+  - DOMAIN-SUFFIX,steamcommunity.com
+# Other
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,openwrt.org
