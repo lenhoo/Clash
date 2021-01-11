@@ -30,13 +30,8 @@ payload:
   - DOMAIN-SUFFIX,fc2club.com
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,r18.com
-# Rockstar
-  - DOMAIN-SUFFIX,rockstargames.com
 # Epicgames
-  - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-KEYWORD,epicgames
-# Steam Coummunity
-  - DOMAIN-SUFFIX,steamcommunity.com
 # Other
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,pythonhosted.org
