@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,r18.com
 # Epicgames
   - DOMAIN-KEYWORD,epicgames
+# Path of Exile
+  - DOMAIN-SUFFIX,pathofexile.com
 # Other
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,pythonhosted.org
