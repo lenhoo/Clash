@@ -33,7 +33,7 @@ payload:
 # Epicgames
   - DOMAIN-KEYWORD,epicgames
 # Path of Exile
-  - DOMAIN-SUFFIX,pathofexile.com
+#  - DOMAIN-SUFFIX,pathofexile.com
 # Other
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,pythonhosted.org
