@@ -35,8 +35,8 @@ payload:
 # Path of Exile
 #  - DOMAIN-SUFFIX,pathofexile.com
 # ExileApi
-  - GEOIP,52.69.239.207,Proxy
-  - GEOIP,13.230.158.120,Proxy
+  - DOMAIN-KEYWORD,52.69.239.207,Proxy
+  - DOMAIN-KEYWORD,13.230.158.120,Proxy
 # Other
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,pythonhosted.org
