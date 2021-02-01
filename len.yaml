@@ -40,7 +40,7 @@ payload:
   - IP-CIDR,13.230.158.120/32,Proxy
   - IP-CIDR,18.179.245.253/32,Proxy
 # Other
-  - DOMAIN-SUFFIX,docker.com
+#  - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,nexusmods.com
