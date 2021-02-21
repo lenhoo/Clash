@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,tv.apple.com
 # Media Scraber
   - DOMAIN-KEYWORD,shabi.in
-  - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
