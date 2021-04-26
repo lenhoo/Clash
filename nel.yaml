@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,tagtic.cn
   - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,yougetsignal.com
