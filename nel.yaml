@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,tagtic.cn,DIRECT
+  - DOMAIN-SUFFIX,tagtic.cn
+  - DOMAIN-SUFFIX,test-ipv6.com
