@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,tagtic.cn
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,yougetsignal.com
+  - DOMAIN-SUFFIX,dyndns.com
