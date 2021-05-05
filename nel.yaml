@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,yougetsignal.com
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,m-team.cc
