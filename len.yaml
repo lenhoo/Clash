@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,plex.tv
 # Ozark
   - DOMAIN-SUFFIX,ozark.gg
   - DOMAIN-SUFFIX,ozarkengine.cc
