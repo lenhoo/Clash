@@ -29,3 +29,5 @@ payload:
   - DOMAIN-KEYWORD,hacg
   - DOMAIN-KEYWORD,bungie
   - DOMAIN-SUFFIX,typekit.net
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,google-analytics.com
