@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,nexus-cdn.com
+  - DOMAIN-SUFFIX,vlsp.network
+  - DOMAIN-SUFFIX,braytech.org
