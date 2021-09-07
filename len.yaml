@@ -27,6 +27,6 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,reverso.com
   - DOMAIN-KEYWORD,hacg
-  - DOMAIN-KEYWORD,bungie
-  - DOMAIN-SUFFIX,typekit.net
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,nexus-cdn.com
