@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,r18.com
 # Path of Exile
   - DOMAIN-SUFFIX,pathofexile.com
-  - DOMAIN-SUFFIX,poecdn.com
 # Other
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,openwrt.org
