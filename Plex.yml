@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,plexapp.com
+  - DOMAIN,images.plex.tv
+  - DOMAIN,meta.plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,metadata-static.plex.tv
