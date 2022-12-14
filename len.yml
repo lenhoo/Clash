@@ -1,26 +1,15 @@
 payload:
-#DIRECT
-  - DOMAIN,v4.plex.tv,DIRECT
-  - DOMAIN-SUFFIX,mypikpak.com,DIRECT
-  - DOMAIN-SUFFIX,hath.network,DIRECT
-  - DOMAIN-SUFFIX,hentaiathome.net,DIRECT
-  - DOMAIN-KEYWORD,xflash.cc,DIRECT
-  - IP-CIDR,43.135.125.240/32,DIRECT
-  - DOMAIN-SUFFIX,lenosy.com,DIRECT
- #JAPAN
-  - DOMAIN-SUFFIX,mgstage.com,Japan
- #PROXY
-  - DOMAIN-SUFFIX,steamcommunity.com,Proxy
-  - DOMAIN-SUFFIX,steampowered.com,Proxy
-  - DOMAIN-SUFFIX,steamstatic.com,Proxy
-  - DOMAIN-SUFFIX,plexapp.com,Proxy
-  - DOMAIN,images.plex.tv,Proxy
-  - DOMAIN,meta.plex.tv,Proxy
-  - DOMAIN,metadata.provider.plex.tv,Proxy
-  - DOMAIN,metadata-static.plex.tv,Proxy
-  - DOMAIN-SUFFIX,torrentapi.org,Proxy
-  - DOMAIN-SUFFIX,1337x.to,Proxy
-  - DOMAIN-SUFFIX,sonarr.tv,Proxy
-  - DOMAIN-SUFFIX,radarr.video,Proxy
-  - DOMAIN-KEYWORD,eztv,Proxy
-  - DOMAIN-KEYWORD,javcdn,Proxy
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,plexapp.com
+  - DOMAIN,images.plex.tv
+  - DOMAIN,meta.plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,metadata-static.plex.tv
+  - DOMAIN-SUFFIX,torrentapi.org
+  - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,sonarr.tv
+  - DOMAIN-SUFFIX,radarr.video
+  - DOMAIN-KEYWORD,eztv
+  - DOMAIN-KEYWORD,javcdn
