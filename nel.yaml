@@ -1,9 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,tagtic.cn
-  - DOMAIN-SUFFIX,test-ipv6.com
-  - DOMAIN-SUFFIX,yougetsignal.com
-  - DOMAIN-SUFFIX,dyndns.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN,v4.plex.tv
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-SUFFIX,hentaiathome.net
+  - DOMAIN-KEYWORD,xflash.cc
+  - IP-CIDR,43.135.125.240/32
   - DOMAIN-SUFFIX,lenosy.com
